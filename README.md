@@ -5,7 +5,7 @@ Mohamed Mohamed,
 Muhammad Anwar
 
 ## **Project Overview**  ([Video Presentation](https://www.youtube.com/watch?v=ScLrya-_9W0))
-> The "*Drone Simulation System*" allows you to schedule trips around the UMN campus, it is designed to pick up and drop off robots from one location to another. The system has a weather feature that effects the simulation as it goes on and also has a notification system to notify you of events in the simulation.
+> The Drone Simulation System allows you to schedule trips around the UMN campus, it is designed to pick up and drop off robots from one location to another. The system has a weather feature that effects the simulation as it goes on and also has a notification system to notify you of events in the simulation.
 ###### [Presentation Slides](media/Presentation.pdf)
 
 ## How to run the simulation
